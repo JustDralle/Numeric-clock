@@ -1,0 +1,16 @@
+c:\users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.exe
+c:\users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.pdb
+c:\users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.exe
+c:\users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\obj\x86\Debug\clock.csprojResolveAssemblyReference.cache
+C:\Users\siosl\onedrive\documents\visual studio 2010\Projects\clock\clock\bin\Debug\clock.exe.config
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\obj\x86\Debug\clock.csproj.AssemblyReference.cache
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\obj\x86\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\obj\x86\Debug\clock.exe
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\obj\x86\Debug\clock.pdb
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\bin\Debug\clock.exe.config
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\bin\Debug\clock.exe
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\bin\Debug\clock.pdb
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\bin\Debug\Figgle.dll
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\bin\Debug\Figgle.xml
+C:\Users\siosl\OneDrive\Documents\Visual Studio 2022\Projects\clock\clock\obj\x86\Debug\clock.csproj.CopyComplete
